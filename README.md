@@ -163,7 +163,6 @@ plt.show()
 
 <img width="781" alt="Screenshot 2025-04-21 at 9 31 28 AM" src="https://github.com/user-attachments/assets/b00169d0-ce95-4040-b87b-b39ca7ed8dd2" />
 
-![image](https://github.com/user-attachments/assets/37a87468-bf8e-4c43-a73f-af903ab951a7)
 ![image](https://github.com/user-attachments/assets/56c0e4ee-8fbe-496e-997c-36497d8c1831)
 
 ### RESULT:
